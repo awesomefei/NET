@@ -1,0 +1,17 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "tsc": "tsc -w",
+    "start": "lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^2.0.40",
+    "jquery": "^3.1.1"
+  }
+}
